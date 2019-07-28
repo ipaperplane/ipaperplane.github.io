@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>linil</title>
-    <link>http://linil.me/</link>
-    <description>Recent content on linil</description>
+    <title>研发效能 on linil</title>
+    <link>http://linil.me/tags/%E7%A0%94%E5%8F%91%E6%95%88%E8%83%BD/</link>
+    <description>Recent content in 研发效能 on linil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; Copyright 2019 linilee</copyright>
     <lastBuildDate>Sat, 20 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://linil.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://linil.me/tags/%E7%A0%94%E5%8F%91%E6%95%88%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,23 +29,6 @@
 一站式研发管理平台企业自研 主要介绍企业自研一站式研发管理平台的实践与踩过的坑
 一站式研发管理平台发展趋势 构建一站式企业研发管理平台，终极目的是为了提升企业协作效率，降低企业管理成本。这部分主要介绍相关领域的发展。
 下一步计划 领域驱动 项目管理 </description>
-    </item>
-    
-    <item>
-      <title>博客迁移</title>
-      <link>http://linil.me/post/about-old-posts/</link>
-      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://linil.me/post/about-old-posts/</guid>
-      <description>为什么迁移 之前的博客基于Ruhoh，这个项目目前已经无人维护。而且因为博客很长时间没有更新，最近的更新还是五年前。
-最近几年自己的工作也发生了很大的变化，之前更多关注自动化运维、Linux等运维领域。
-现在自己的视野已经不仅仅局限于此，对技术、生活、工作、管理等有了新的思考。也需要有个新的开始。
-以前的博客 会继续维护保留，尽可能迁移到新的博客。junqilee.com
-工具 这里主要关注DevOps工具。DevOps不仅仅是工具，它是一系列思想，概念以及最佳实践等。但是实现这些理念的却是通过工具来完成。这里的工具有：Puppet、Zabbix、Mcollective、Fabric
-笔记 主要是一些读书笔记，主要是HTTP权威指南的读书笔记
-GIT、Linux Command 及其他翻译和随笔文章。
-博客主题 新的主题是什么，更多还是个人的思考，包括但不限于工作、生活、技术等。会以专题的形式呈现，同时穿插一些胡思乱想。
-短期内会有两个专题需要去完善：项目管理和研发效能。期待自己坚持写下去。</description>
     </item>
     
   </channel>
